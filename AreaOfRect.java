@@ -1,3 +1,8 @@
+/* 
+Write a program to find area of Rectangle
+*/
+
+
 package lab1;
 
 import java.util.Scanner;
