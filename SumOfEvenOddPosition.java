@@ -1,3 +1,6 @@
+/*
+ * Write a Program to Find Sum Of Even and Odd Positions in array
+ */
 package com.array;
 
 import java.util.Scanner;
