@@ -1,6 +1,4 @@
-
-
-
+/* Write A program to Calculate x=sqrt(Math.cos(a)+b)/(Math.sin(b)-a)*/
 package com.math;
 
 import java.util.*;
