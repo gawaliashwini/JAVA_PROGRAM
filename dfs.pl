@@ -1,4 +1,4 @@
-% solve( Node, Solution):
+% solve( a, Solution).
 %    Solution is an acyclic path (in reverse order) between Node and a goal
 
 solve( Node, Solution)  :-
